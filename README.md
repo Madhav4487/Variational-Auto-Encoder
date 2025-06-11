@@ -13,8 +13,7 @@ The VAE model consists of:
 - **Encoder**: Flattens the 28x56 input and projects it into a 10-dimensional latent space (via mean and log variance).
 - **Reparameterization Trick**: Samples a latent vector z from the learned distribution.
 - **Decoder**: Reconstructs the original image from z using fully connected layers.
-
-Loss = Binary Cross-Entropy (reconstruction) + KL Divergence (regularization)
+-**Loss** = Binary Cross-Entropy (reconstruction) + KL Divergence (regularization)
 
 ## What I Learned
 - How to customize and preprocess datasets for generative models
