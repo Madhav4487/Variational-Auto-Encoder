@@ -16,9 +16,6 @@ The VAE model consists of:
 
 Loss = Binary Cross-Entropy (reconstruction) + KL Divergence (regularization)
 
-### 6. **Results**
-The combined images are generated.
-
 ## What I Learned
 - How to customize and preprocess datasets for generative models
 - Implementing a VAE with encoder-decoder architecture in PyTorch
