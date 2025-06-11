@@ -19,3 +19,17 @@ The VAE model consists of:
 - How to customize and preprocess datasets for generative models
 - Implementing a VAE with encoder-decoder architecture in PyTorch
 - Visualizing latent space samples and understanding learned distributions
+  
+## 📌 To Do / Future Work
+
+- Use convolutional layers for better image quality
+- Extend to more complex datasets like Fashion MNIST
+- Explore conditional VAE to generate specific digit combinations
+
+
+## 📬 Contact
+
+**Madhav Dahal**  
+📧 madhavdahal16@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/madhav-dahal-ms-9a1147b0)  
+🔗 [GitHub](https://github.com/Madhav4487)
